@@ -1,0 +1,1392 @@
+License Number:MA20180001D
+First Name:Violet
+Mailing Address:55 Tannery Road
+County:Hampden
+Cell Phone:
+Email:
+Business Name:Misty Valley Farm
+Last Name:Hall
+City:Southwick
+Zipcode:01077
+Work Phone:(413) 569-3009
+<br>
+License Number:MA20180003D
+First Name:Stephen
+Mailing Address:149 Bennett Rd
+County:Middlesex
+Cell Phone:
+Email:
+Business Name:EmmerginCBD
+Last Name:Sockol
+City:Ashby
+Zipcode:01431 
+Work Phone:
+<br>
+License Number:MA20180002G
+First Name:Erik
+Mailing Address:148 Pleasant St
+County:Barnstable
+Cell Phone:(720) 940-7785
+Email:ehunter@capecodhemp.com
+Business Name:Cape Cod Hemp
+Last Name:Hunter
+City:South Yarmouth
+Zipcode:02664 
+Work Phone:
+<br>
+License Number:MA20180005G
+First Name:Nicholas
+Mailing Address:116 Pleasant St
+County:Hampshire
+Cell Phone:(413) 222-6446
+Email:nickrobinson.bjc@gmail.com
+Business Name:Fog Farm
+Last Name:Robinson
+City:Granby
+Zipcode:01033
+Work Phone:
+<br>
+License Number:MA20180006D
+First Name:Kevin
+Mailing Address:50 River St
+County:Middlesex
+Cell Phone: 
+Email:
+Business Name:Atlantic Farm
+Last Name:McGovern
+City:Dunstable
+Zipcode:01827
+Work Phone:
+<br>
+License Number:MA20180007G
+First Name:Marc
+Mailing Address:185 Mattapoisett Rd
+County:Plymouth
+Cell Phone: 
+Email:
+Business Name:Reusch Creek Farm
+Last Name:Reusch
+City:Rochester
+Zipcode:02770
+Work Phone:(508) 763-4625
+<br>
+License Number:MA20180008D
+First Name:Timothy
+Mailing Address:99 Industrial Drive
+County:Hampshire
+Cell Phone:
+Email:
+Business Name:Heritage Hemp LLC
+Last Name:Van Epps
+City:Northampton
+Zipcode:01060
+Work Phone:
+<br>
+License Number:MA20180009D
+First Name:Harry
+Mailing Address:20 Middle St
+County:Hampshire
+Cell Phone: 
+Email:
+Business Name:Harmeladise
+Last Name:Vandoloski
+City:Hadley
+Zipcode:01035
+Work Phone:
+<br>
+License Number:MA20180010D
+First Name:John
+Mailing Address:4 Rising Corner Road
+County:Hampden
+Cell Phone: 
+Email:
+Business Name:
+Last Name:Eaton
+City:Southwick
+Zipcode:01077
+Work Phone:(413) 732-3300
+<br>
+License Number:MA20180011D
+First Name:Joseph
+Mailing Address:77 Pond St
+County:Essex
+Cell Phone:(978) 764-7285
+Email:
+Business Name:Corner Stalk Farm
+Last Name:Cooney
+City:Marblehead
+Zipcode:01945
+Work Phone:
+<br>
+License Number:MA20180013G
+First Name:Regan
+Mailing Address:1249 Churchill St
+County:Berkshire
+Cell Phone: 
+Email:
+Business Name:Gillette Hemp Organization
+Last Name:Gillette
+City:Pittsfield
+Zipcode:01201
+Work Phone:
+<br>
+License Number:MA20180012D
+First Name:Edward
+Mailing Address:98 Elm St
+County:Worcester
+Cell Phone:(508) 561-9950
+Email:
+Business Name:Massachusetts Pharmservices Realty Trust
+Last Name:Paquette
+City:Southbridge
+Zipcode:01550
+Work Phone:(508) 764-4051
+<br>
+License Number:MA20180014P
+First Name:John
+Mailing Address:238 Bemis Rd
+County:Worcester
+Cell Phone: 
+Email:
+Business Name:Canopy CBD Farms
+Last Name:Westlake
+City:Fitchburg
+Zipcode:01420
+Work Phone:
+<br>
+License Number:MA20190017G
+First Name:Patricia
+Mailing Address:PO Box 969
+County:Bristol
+Cell Phone: 
+Email:robbinstroutfarm@yahoo.com
+Business Name:Robbins Trout Farm
+Last Name:Tobia-Akins
+City:Mattapoisett
+Zipcode:02739
+Work Phone:
+<br>
+License Number:MA201900186
+First Name:John
+Mailing Address:2 Wendell Ave
+County:Hampshire
+Cell Phone: 
+Email:
+Business Name:Western Mass Cannabis
+Last Name:Waskiewicz
+City:Easthampton
+Zipcode:01027
+Work Phone:
+<br>
+License Number:MA20190019G
+First Name:Robert
+Mailing Address:175 Corbin Rd
+County:Worcester
+Cell Phone: 
+Email:
+Business Name:Angel Farms
+Last Name:Doherty
+City:Dudley
+Zipcode:01571
+Work Phone:
+<br>
+License Number:MA20190020G
+First Name:Richard
+Mailing Address:165 Chestnut Hill Rd
+County:Franklin
+Cell Phone: 
+Email:solidarity@seedsofsolidarity.org
+Business Name:Seeds of Solidarity Farm
+Last Name:Baruc
+City:Orange
+Zipcode:01364
+Work Phone:(973) 544-7564
+<br>
+License Number:MA201900216
+First Name:Debra
+Mailing Address:913 Division Rd
+County:Bristol
+Cell Phone: 
+Email:allenfarmsorganics@gmail.com
+Business Name:Allen Farms
+Last Name:Barrett
+City:Westport
+Zipcode:02790
+Work Phone:(508) 636-2013
+<br>
+License Number:MA20190022D
+First Name:Dennis
+Mailing Address:108 West Leyden Rd
+County:Franklin
+Cell Phone: 
+Email:
+Business Name:Twisted Yields
+Last Name:DePaolo
+City:Colrain
+Zipcode:01340
+Work Phone:
+<br>
+License Number:MA20190023D
+First Name:Edwin
+Mailing Address:243 Sodom St
+County:Hampden
+Cell Phone: 
+Email:
+Business Name:Hill Town Pork
+Last Name:Beckwith
+City:Granville
+Zipcode:01034
+Work Phone:(413) 357-6490
+<br>
+License Number:MA20190024D
+First Name:Brennan
+Mailing Address:17 Bassett St
+County:Plymouth
+Cell Phone: 
+Email:
+Business Name:Bay Grown Farms
+Last Name:Goguen
+City:Rochester
+Zipcode:02770
+Work Phone:
+<br>
+License Number:MA20190025D
+First Name:Christopher
+Mailing Address:1640 Home Rd
+County:Berkshire
+Cell Phone: 
+Email:
+Business Name:Soda Springs Farm
+Last Name:Weld
+City:Great Barrington
+Zipcode:01230
+Work Phone:
+<br>
+License Number:MA201900266
+First Name:Melissa
+Mailing Address:310 Hartley Rd
+County:Plymouth
+Cell Phone: 
+Email:
+Business Name:
+Last Name:Magellan
+City:Rochester
+Zipcode:02770
+Work Phone:
+<br>
+License Number:MA20190027D
+First Name:Mark
+Mailing Address:15 Union St
+County:Bristol
+Cell Phone: 
+Email:
+Business Name:No Wait Nation; Osprey Point Farm
+Last Name:Worster
+City:N. Easton
+Zipcode:02356
+Work Phone:
+<br>
+License Number:MA20190028G
+First Name:Mark
+Mailing Address:41 Caspian Way
+County:Worcester
+Cell Phone: 
+Email:
+Business Name:
+Last Name:Fanelli
+City:Fitchburg
+Zipcode:01420
+Work Phone:
+<br>
+License Number:MA20190029D
+First Name:Timothy
+Mailing Address:PO Box 132
+County:Hampshire
+Cell Phone: 
+Email:
+Business Name:Ridge Road Farm
+Last Name:Sena
+City:Worthington
+Zipcode:01098
+Work Phone:
+<br>
+License Number:MA20190030D
+First Name:Ashley
+Mailing Address:965 Oakham Rd
+County:Worcester
+Cell Phone:(508) 864-0899
+Email:info@heavensharvestfarm.com
+Business Name:Heavens Harvest Farm
+Last Name:Howard
+City:New Braintree
+Zipcode:01531
+Work Phone:
+<br>
+License Number:MA20190031G
+First Name:Nola
+Mailing Address:140 Barton Rd
+County:Franklin
+Cell Phone: 
+Email:
+Business Name:Hidden Meadow Farm
+Last Name:Snyder
+City:Greenfield
+Zipcode:01301
+Work Phone:
+<br>
+License Number:MA20190032G
+First Name:Donald
+Mailing Address:215 Leverett Rd
+County:Franklin
+Cell Phone: 
+Email:
+Business Name:Forest Farmer
+Last Name:Wakoluk
+City:Shutesbury
+Zipcode:01072
+Work Phone:
+<br>
+License Number:MA20190033G
+First Name:Jeffrey
+Mailing Address:96 Mount Lebanon St
+County:Middlesex
+Cell Phone: 
+Email:
+Business Name:CSWD Farm
+Last Name:Ratta
+City:Pepperell
+Zipcode:01463
+Work Phone:
+<br>
+License Number:MA20190034G
+First Name:Scott
+Mailing Address:53 Palmer Road
+County:Plymouth
+Cell Phone:(781) 572-1366
+Email:scott@sauchukfarm.net
+Business Name:Sauchuk Farm LLC
+Last Name:Sauchuk
+City:Plympton
+Zipcode:02367
+Work Phone:
+<br>
+License Number:MA20190035D
+First Name:David
+Mailing Address:P.O. Box 100
+County:Hampden
+Cell Phone: 
+Email:
+Business Name:DJA Family Enterprises, LLC dba Spartan Hemp Works
+Last Name:Ayers
+City:East Longmeadow
+Zipcode:01028
+Work Phone:
+<br>
+License Number:MA20190036P
+First Name:Wendell
+Mailing Address:3 Vermont Ave
+County:Essex
+Cell Phone: 
+Email:
+Business Name:Mantis Management Group LLC
+Last Name:Orphe
+City:Saugus
+Zipcode:01906
+Work Phone:
+<br>
+License Number:MA20190037P
+First Name:Mark
+Mailing Address:679 Washington St, Suite 8-190
+County:Bristol
+Cell Phone: 
+Email:
+Business Name:Commonwealth Hemp Products LLC
+Last Name:Norige
+City:S. Attleboro
+Zipcode:02703
+Work Phone:
+<br>
+License Number:MA20190038P
+First Name:Niel
+Mailing Address:160 Fremont St, Suite 405
+County:Worcester
+Cell Phone:(207) 408-0263
+Email:
+Business Name:Manna Molecular Science LLC
+Last Name:DeMena
+City:Worcester
+Zipcode:01603
+Work Phone:
+<br>
+License Number:MA20190039P
+First Name:Philip
+Mailing Address:333 Venture Way
+County:Hampshire
+Cell Phone: 
+Email:
+Business Name:American River Nutrition
+Last Name:Lizotte
+City:Hadley
+Zipcode:01035
+Work Phone:(413) 253-3449
+<br>
+License Number:MA20190040D
+First Name:Andrew
+Mailing Address:410 Dighton Ave
+County:Bristol
+Cell Phone:
+Email:
+Business Name:Silver City Acres
+Last Name:Wilkinson
+City:Taunton
+Zipcode:02780
+Work Phone:
+<br>
+License Number:MA20190041D
+First Name:Craig
+Mailing Address:90 Caribou Way
+County:Bristol
+Cell Phone:
+Email:eastamericatradeco@gmail.com
+Business Name:East America Trade Co.
+Last Name:Leheau
+City:Tiverton
+Zipcode:02878
+Work Phone:
+<br>
+License Number:MA20190042D
+First Name:Ruth
+Mailing Address:220 Mattapoiset Road
+County:Plymouth
+Cell Phone:
+Email:
+Business Name:River Bend Farm
+Last Name:Correia
+City:Rochester
+Zipcode:02770
+Work Phone:
+<br>
+License Number:MA20190043D
+First Name:Peter
+Mailing Address:225 Wood Street
+County:Plymouth
+Cell Phone:
+Email:
+Business Name:Peter Paquin Cranberries
+Last Name:Paquin
+City:Middleboro
+Zipcode:02346
+Work Phone:
+<br>
+License Number:MA20190044G
+First Name:Scott
+Mailing Address:149 Christian Lane
+County:Franklin
+Cell Phone:
+Email:
+Business Name:Long Plain Farm
+Last Name:Hutkoski
+City:Whatley
+Zipcode:01093
+Work Phone:
+<br>
+License Number:MA201900456
+First Name:Perrin
+Mailing Address:PO Box 232
+County:Hampshire 
+Cell Phone:
+Email:
+Business Name:Berkshire Farm Collective
+Last Name:Hendrick
+City:Chesterfield
+Zipcode:01012
+Work Phone:(413) 758-9511
+<br>
+License Number:MA20190046G
+First Name:Gregory
+Mailing Address:858 Washington St
+County:Norfolk
+Cell Phone:
+Email:greg.salvatorel@gmail.com
+Business Name:Elite Labs
+Last Name:Salvatore
+City:Dedham
+Zipcode:02026
+Work Phone:
+<br>
+License Number:MA20190047D
+First Name:Michael
+Mailing Address:339 Amherst Rd
+County:Hampshire
+Cell Phone:
+Email:quabbinhiflfarms@gmail.com
+Business Name:Quabbin Hill Farms
+Last Name:Vilcans
+City:Pelham
+Zipcode:01002
+Work Phone:
+<br>
+License Number:MA201900486
+First Name:Conor
+Mailing Address:181 Meadow Road
+County:Franklin
+Cell Phone:
+Email:
+Business Name:Conor and Marcia Farm
+Last Name:Power
+City:Montague
+Zipcode:01351
+Work Phone:
+<br>
+License Number:MA20190049G
+First Name:Jeremy
+Mailing Address:PO Box 9631
+County:Hampshire
+Cell Phone:
+Email:simplegiftsfarm@gmail.com
+Business Name:Simple Gifts Farm
+Last Name:Plotkin
+City:North Amherst
+Zipcode:01059
+Work Phone:
+<br>
+License Number:MA20190050D
+First Name:Roberto
+Mailing Address:PO Box 385
+County:Berkshire
+Cell Phone:
+Email:roberto@gooddogsfarm.com
+Business Name:Good Dogs Farm
+Last Name:Flores
+City:Ashley Falls
+Zipcode:01222
+Work Phone:
+<br>
+License Number:MA20190051D
+First Name:Karen
+Mailing Address:170 North Road
+County:Franklin
+Cell Phone:
+Email:
+Business Name:Shine Diamond LLC
+Last Name:Gaston
+City:East Windsor
+Zipcode:06088
+Work Phone:
+<br>
+License Number:MA20190052E1
+First Name:Jacob
+Mailing Address:2B River St
+County:Berkshire
+Cell Phone:(508) 454-7992
+Email:
+Business Name:CAVU Hemp
+Last Name:Zieminski
+City:Adams
+Zipcode:01220
+Work Phone:
+<br>
+License Number:MA20190053G
+First Name:Mark
+Mailing Address:131 Prospect St
+County:Hampshire
+Cell Phone:
+Email:
+Business Name:Wendolowski Farm LLC
+Last Name:Wendolowski
+City:Hatfield
+Zipcode:01038
+Work Phone:
+<br>
+License Number:MA20190054P
+First Name:Michael
+Mailing Address:1 Karen Circle
+County:Hampshire
+Cell Phone:
+Email:
+Business Name:Western MA Hemp
+Last Name:Lupario
+City:Easthampton
+Zipcode:01027
+Work Phone:
+<br>
+License Number:MA20190055D
+First Name:Peter
+Mailing Address:36 Mossbrook Rd
+County:Franklin
+Cell Phone:
+Email:
+Business Name:Mossbrook Farm
+Last Name:Zielinski
+City:Orange
+Zipcode:01364
+Work Phone:
+<br>
+License Number:MA20190056G
+First Name:Brett
+Mailing Address:PO Box 313
+County:Plymouth
+Cell Phone:
+Email:
+Business Name:
+Last Name:Melville
+City:North Carver
+Zipcode:02355
+Work Phone:
+<br>
+License Number:MA20190057D
+First Name:Gian
+Mailing Address:52 Center Rd
+County:Worcester
+Cell Phone:
+Email:
+Business Name:Peace Out Consulting
+Last Name:Ranucci
+City:Dudley
+Zipcode:01571
+Work Phone:
+<br>
+License Number:MA20190061D
+First Name:Dawn
+Mailing Address:67 Adams St
+County:Essex
+Cell Phone:
+Email:
+Business Name:
+Last Name:Duncan
+City:Lynn
+Zipcode:01902
+Work Phone:
+<br>
+License Number:MA20190062G
+First Name:Ruben
+Mailing Address:567 Hicks St
+County:Bristol
+Cell Phone:
+Email:
+Business Name:Livity Farm
+Last Name:Barbosa
+City:Fall River
+Zipcode:02724
+Work Phone:
+<br>
+License Number:MA20190063G
+First Name:Michael
+Mailing Address:438 College Highway
+County:Hampden
+Cell Phone:
+Email:pioneervalleyhempcompany@gmailcom
+Business Name:Pioneer Valley Hemp Company
+Last Name:Albert
+City:Southwick
+Zipcode:01077
+Work Phone:
+<br>
+License Number:MA20190064G
+First Name:Edward
+Mailing Address:500 Church Street
+County:Worcester
+Cell Phone:
+Email:
+Business Name:Davidian Brothers Farm
+Last Name:Davidian
+City:Northborough
+Zipcode:01532
+Work Phone:
+<br>
+License Number:MA20190065D
+First Name:David
+Mailing Address:33 Bartlett Farm Rd
+County:Nantucket
+Cell Phone:
+Email:
+Business Name:Bartlett's Ocean View Farm Inc
+Last Name:Bartlett
+City:Nantucket
+Zipcode:02554
+Work Phone:
+<br>
+License Number:MA20190066D
+First Name:Jay
+Mailing Address:128 Lower Road
+County:Franklin
+Cell Phone:
+Email:jsavage35@comcast.net
+Business Name:Savage Farms Inc.
+Last Name:Savage
+City:Deerfield
+Zipcode:01342
+Work Phone:(413) 774-4935
+<br>
+License Number:MA20190067G
+First Name:Donald
+Mailing Address:P.O. Box 780
+County:Hampshire
+Cell Phone:
+Email:dchase@chasent.com
+Business Name:Chase Enterprises Corp.
+Last Name:Chase
+City:Northampton
+Zipcode:01061
+Work Phone:
+<br>
+License Number:MA20190068D
+First Name:John
+Mailing Address:162 Grove St
+County:Norfolk
+Cell Phone:
+Email:jswomley@swomleyandtennen.com
+Business Name:Terrapin Holistic Cooperative LLC
+Last Name:Swomley
+City:Franklin
+Zipcode:02038
+Work Phone:
+<br>
+License Number:MA20190069D
+First Name:Linda
+Mailing Address:555 Lincoln St
+County:Norfolk
+Cell Phone:
+Email:terrapinfarm@verizon.net
+Business Name:Terrapin Farm
+Last Name:Noel
+City:Franklin
+Zipcode:02038
+Work Phone:
+<br>
+License Number:MA20190070G
+First Name:Walter
+Mailing Address:135 Mt. Warner Rd
+County:Hampshire
+Cell Phone:
+Email:czajkowski135@charter.net
+Business Name:Plainvile Farm
+Last Name:Czajkowski
+City:Hadley
+Zipcode:01035
+Work Phone:
+<br>
+License Number:MA20190071D
+First Name:Thomas
+Mailing Address:460 Strawberry Hill Rd
+County:Middlesex
+Cell Phone:
+Email:silferleaf@gmail.com
+Business Name:Silferleaf Farm
+Last Name:Johnson
+City:Concord
+Zipcode:01742
+Work Phone:
+<br>
+License Number:MA201900726
+First Name:Tim
+Mailing Address:38r Ocean Avenue
+County:Essex
+Cell Phone:
+Email:
+Business Name:New Roots Organics
+Last Name:Haigh
+City:Salem
+Zipcode:01970
+Work Phone:
+<br>
+License Number:MA20190073G
+First Name:Christopher
+Mailing Address:268 Forest Hills Rd
+County:Hampden
+Cell Phone:
+Email:
+Business Name:Back Acres Hemp LLC
+Last Name:Roos
+City:Springfield
+Zipcode:01128
+Work Phone:
+<br>
+License Number:MA20190074G
+First Name:Seben
+Mailing Address:192 Stafford St
+County:Worcester
+Cell Phone:
+Email:
+Business Name:Juniper Acres
+Last Name:Rose
+City:Charlton
+Zipcode:01507
+Work Phone:
+<br>
+License Number:MA201900756
+First Name:Keith
+Mailing Address:236 Haggetts Pond Road
+County:Essex
+Cell Phone:
+Email:
+Business Name:South Farthing Hemp Farm
+Last Name:Rogers
+City:Andover
+Zipcode:01810
+Work Phone:
+<br>
+License Number:MA20190076G
+First Name:Orrin
+Mailing Address:38 North Sullivan Road
+County:Worcester
+Cell Phone:
+Email:
+Business Name:Orrin Sisco Lumber
+Last Name:Sisco
+City:Charlton
+Zipcode:01507
+Work Phone:
+<br>
+License Number:MA20190078D
+First Name:Marcos
+Mailing Address:27 Standish Street
+County:Plymouth
+Cell Phone:
+Email:
+Business Name:27 Standish Street Trust
+Last Name:Coli
+City:Pembroke
+Zipcode:02359
+Work Phone:
+<br>
+License Number:MA20190080P
+First Name:Gustavo
+Mailing Address:67 Union St Suite 401
+County:Middlesex
+Cell Phone:
+Email:
+Business Name:Boston Center for Clinical Research
+Last Name:Kinrys
+City:Natick
+Zipcode:01760
+Work Phone:
+<br>
+License Number:MA20190081G
+First Name:Fred
+Mailing Address:286 College Hwy
+County:Hampden
+Cell Phone:
+Email:
+Business Name:Robert Arnold Tobacco Corp.
+Last Name:Arnold
+City:Southwick
+Zipcode:01077
+Work Phone:
+<br>
+License Number:MA20190082D
+First Name:Ronald
+Mailing Address:1 Demers Drive
+County:Worcester
+Cell Phone:
+Email:
+Business Name:Demers Hill at Westpalace Farm
+Last Name:Audette
+City:Spencer
+Zipcode:01562
+Work Phone:
+<br>
+License Number:MA20190083D
+First Name:Jeffrey
+Mailing Address:392 West Main Street
+County:Worcester
+Cell Phone:
+Email:
+Business Name:Blackstone Valley Cannabis
+Last Name:Weagle
+City:Millbury
+Zipcode:01527
+Work Phone:
+<br>
+License Number:MA20190084P
+First Name:Charlotte
+Mailing Address:428 Potomska Rd
+County:Bristol
+Cell Phone:
+Email:
+Business Name:
+Last Name:Hamlin
+City:South Dartmouth
+Zipcode:02748
+Work Phone:
+<br>
+License Number:MA20190085P
+First Name:Brian
+Mailing Address:349 Highland Avenue
+County:Middlesex
+Cell Phone:
+Email:
+Business Name:Qs Nuts IIC
+Last Name:Quinn
+City:Somerville
+Zipcode:02144
+Work Phone:(617) 764-3741
+<br>
+License Number:MA201900866
+First Name:William
+Mailing Address:PO Box 3090
+County:Bristol
+Cell Phone:
+Email:
+Business Name:Braun's Casting
+Last Name:Braun
+City:Westport
+Zipcode:02790
+Work Phone:
+<br>
+License Number:MA20190087G
+First Name:Thomas
+Mailing Address:249 Feeding Hill Road
+County:Hampden
+Cell Phone:
+Email:calabrese.farms@gmail.com
+Business Name:Calabrese Farms, LLC.
+Last Name:Calabrese
+City:Southwick
+Zipcode:01077
+Work Phone:(413) 478-7692
+<br>
+License Number:MA20190088G
+First Name:Paris
+Mailing Address:30 Stoddard Road
+County:Worcester
+Cell Phone:
+Email:
+Business Name:Long View Farm
+Last Name:Qualles
+City:North Brookfield
+Zipcode:01535
+Work Phone:
+<br>
+License Number:MA20190089D
+First Name:Benjamin
+Mailing Address:104 Ashfield Road
+County:Franklin
+Cell Phone:
+Email:
+Business Name:Walnut Hill Growers, LLC.
+Last Name:Hay
+City:Shelburne Falls
+Zipcode:01370
+Work Phone:(413) 489-3075
+<br>
+License Number:MA2019009013
+First Name:Theadora
+Mailing Address:1051 West Road
+County:Middlesex
+Cell Phone:
+Email:
+Business Name:ALC Family Trust
+Last Name:Cohen
+City:Ashby
+Zipcode:01432
+Work Phone:
+<br>
+License Number:MA20190091G
+First Name:Liam
+Mailing Address:101 Daunt Road
+County:Worcester
+Cell Phone:
+Email:
+Business Name:Rockingstone Farm
+Last Name:Sullivan
+City:Barre
+Zipcode:01005
+Work Phone:
+<br>
+License Number:MA201900926
+First Name:Nancy
+Mailing Address:70 Tilton Rd
+County:Berkshire
+Cell Phone:
+Email:
+Business Name:Noel Farm
+Last Name:Noel
+City:Savoy
+Zipcode:01256
+Work Phone:
+<br>
+License Number:MA20190093D
+First Name:Christopher
+Mailing Address:10 Linwood Drive
+County:Hampden
+Cell Phone:
+Email:
+Business Name:Swift River Acres, LLC
+Last Name:Norval
+City:Wilbraham
+Zipcode:01095
+Work Phone:
+<br>
+License Number:MA201900946
+First Name:Neil
+Mailing Address:28 East Main St Apt 2
+County:Worcester
+Cell Phone:(508) 769-4873
+Email:kettlebrookfarms@gmail.com
+Business Name:Fry Mountain Farm
+Last Name:Johnson
+City:Brookfield
+Zipcode:01506
+Work Phone:
+<br>
+License Number:MA20190095G
+First Name:Jeff
+Mailing Address:28 Sherman Ave
+County:Norfolk
+Cell Phone:
+Email:
+Business Name:HideAway Hemp LLC
+Last Name:Eglintine
+City:Franklin
+Zipcode:02038
+Work Phone:
+<br>
+License Number:MA20190096G
+First Name:Glenn
+Mailing Address:81 Ben Hale Road
+County:Franklin
+Cell Phone:(413) 863-9898
+Email:gscut@crocker.com
+Business Name:Sudbury Nurseries West
+Last Name:Cutting
+City:Gill
+Zipcode:01354
+Work Phone:
+<br>
+License Number:MA20190097D
+First Name:Eduardo
+Mailing Address:270 Jackson St
+County:Hampshire
+Cell Phone:
+Email:
+Business Name:Hemp Blossom Coop
+Last Name:Suarez
+City:Belchertown
+Zipcode:01007
+Work Phone:
+<br>
+License Number:MA201900986
+First Name:Jason
+Mailing Address:501 Munsing Street
+County:Hampden
+Cell Phone:
+Email:
+Business Name:Best Buds
+Last Name:Chenier
+City:Ludlow
+Zipcode:01056
+Work Phone:
+<br>
+License Number:MA20190099G
+First Name:Xiaoma
+Mailing Address:130 Worthen Road
+County:Middlesex
+Cell Phone:
+Email:
+Business Name:
+Last Name:Lu
+City:Lexinton
+Zipcode:02421
+Work Phone:
+<br>
+License Number:MA20190100D
+First Name:Henry
+Mailing Address:30 Berkshire Heights Rd
+County:Berkshire
+Cell Phone:
+Email:hoptonics@gmail.com
+Business Name:Henry's Organic Products, Inc.
+Last Name:Davis
+City:Great Barrington
+Zipcode:01230
+Work Phone:
+<br>
+License Number:MA20190102G
+First Name:Kyle
+Mailing Address:130 Bryan Rd
+County:Hampshire
+Cell Phone:
+Email:ted@gwhunter.com
+Business Name:
+Last Name:Thayer
+City:Cummington
+Zipcode:01026
+Work Phone:
+<br>
+License Number:MA20190106G
+First Name:Mario
+Mailing Address:1352 Hancock Rd
+County:Berkshire
+Cell Phone:
+Email:mario@woodliferanch.com
+Business Name:Woodlife Ranch
+Last Name:Gagliardi
+City:Williamstown
+Zipcode:01267
+Work Phone:
+<br>
+License Number:MA20190107D
+First Name:Ruben
+Mailing Address:145 Newton Street
+County:Middlesex
+Cell Phone:
+Email:
+Business Name:Erva Inc
+Last Name:Marques
+City:Waltham
+Zipcode:02453
+Work Phone:
+<br>
+License Number:MA20190108P
+First Name:Edward
+Mailing Address:87 Main St
+County:Middlesex
+Cell Phone:
+Email:
+Business Name:Morando Brands LLC
+Last Name:Morando
+City:North Reading
+Zipcode:01864
+Work Phone:
+<br>
+License Number:MA20190109P
+First Name:Zach
+Mailing Address:23 Hale St, Units G and H
+County:Essex
+Cell Phone:
+Email:
+Business Name:The Healing Rose LLC
+Last Name:McInnis
+City:Newburyport
+Zipcode:01950
+Work Phone:
+<br>
+License Number:MA20190110G
+First Name:Billy
+Mailing Address:968 Colebrook River Road
+County:Hampshire
+Cell Phone:
+Email:
+Business Name:Tolland Mountain Property LLC.
+Last Name:White
+City:Tolland
+Zipcode:01034
+Work Phone:
+<br>
+License Number:MA201901116
+First Name:Sean
+Mailing Address:383 Sevin Hill Ave
+County:Suffolk
+Cell Phone:
+Email:
+Business Name:
+Last Name:O'Loughlin
+City:Boston
+Zipcode:02125
+Work Phone:
+<br>
+License Number:MA20190112G
+First Name:Marc
+Mailing Address:PO Box 127
+County:Essex
+Cell Phone:
+Email:
+Business Name:North Shore Hemp Co.
+Last Name:Cavatorta
+City:Rowley
+Zipcode:01969
+Work Phone:
+<br>
+License Number:MA20190113G
+First Name:Evan
+Mailing Address:16 Garvey Rd
+County:Middlesex
+Cell Phone:
+Email:
+Business Name:
+Last Name:Prasky
+City:Framingham
+Zipcode:01701
+Work Phone:
+<br>
+License Number:MA20190114D
+First Name:John
+Mailing Address:40 Whateiy Glen Road
+County:Franklin
+Cell Phone:
+Email:
+Business Name:Moore Brothers' Provisions
+Last Name:Moore
+City:Conway
+Zipcode:01341
+Work Phone:
+<br>
+License Number:MA20190115D
+First Name:Mark Steven
+Mailing Address:1048 Irvine Ave #655
+County:Hampden
+Cell Phone:
+Email:
+Business Name:
+Last Name:Dupuis
+City:Newport Beach
+Zipcode:92660
+Work Phone:
+<br>
+License Number:MA20190116G
+First Name:Nicholas
+Mailing Address:11 Cordaville Road
+County:Middlesex
+Cell Phone:
+Email:
+Business Name:Integrated Genetics & Biopharma Research LLC.
+Last Name:O'Hara
+City:Ashland
+Zipcode:01721
+Work Phone:
+<br>
+License Number:MA20190117G
+First Name:Matthew
+Mailing Address:163 Vining Hill Road
+County:Hampden
+Cell Phone:
+Email:
+Business Name:
+Last Name:Felix
+City:Southwick
+Zipcode:01077
+Work Phone:
+<br>
+License Number:MA20190118D
+First Name:Hope
+Mailing Address:37 Joslin Rd
+County:Worcester
+Cell Phone:
+Email:info@hopemarian.com
+Business Name:Green Hope Enterprises LLC
+Last Name:Redinger
+City:Winchendon
+Zipcode:01475
+Work Phone:
+<br>
+License Number:MA20190119G
+First Name:Kaily
+Mailing Address:221 E. Main Street; Suite 201
+County:Worcester
+Cell Phone:(413) 478-7878
+Email:kaily@growspacene.com
+Business Name:Cultispace, LLC
+Last Name:Hepburn
+City:Milford
+Zipcode:01757
+Work Phone:(800) 543-3020
+<br>
+License Number:MA20190120D
+First Name:Melissa
+Mailing Address:1375 Boardman St
+County:Berkshire
+Cell Phone:
+Email:melissa@himalasalt.com
+Business Name:Living Earth Farm LLC
+Last Name:Kushi
+City:Sheffield
+Zipcode:01257
+Work Phone:
+<br>
+License Number:MA20190121G
+First Name:Phillip
+Mailing Address:660 Riverside Dr
+County:Hampshire
+Cell Phone:
+Email:info@cannomic.com
+Business Name:Cannomic Laboratories, LLC
+Last Name:Estrin
+City:Northampton
+Zipcode:01062
+Work Phone:(860} 941-9665
+<br>
+License Number:MA20190122D
+First Name:Joni
+Mailing Address:150 Speen St; Suite 302
+County:Middlesex
+Cell Phone:
+Email:
+Business Name:WBO Hemp LLC
+Last Name:Shehu
+City:Framingham
+Zipcode:01701
+Work Phone:
+<br>
+License Number:MA201901236
+First Name:Richard
+Mailing Address:280 South St
+County:Plymouth
+Cell Phone:
+Email:silverleaffarmhalifaxma@gmaiLcom
+Business Name:Silver Leaf Farm LLC
+Last Name:Murley
+City:Halifax
+Zipcode:02338
+Work Phone:
+<br>
+License Number:MA20190124P
+First Name:Peter
+Mailing Address:60 Central Street
+County:Essex
+Cell Phone:
+Email:
+Business Name:3BC LLC
+Last Name:Belsito
+City:Topsfield
+Zipcode:01983
+Work Phone:
+<br>
+License Number:MA20190125P
+First Name:Michele
+Mailing Address:42 Elm St, Suite 1
+County:Plymouth
+Cell Phone:
+Email:
+Business Name:Hempworthy
+Last Name:Hanson
+City:Kingston
+Zipcode:02364
+Work Phone:
+<br>
+License Number:MA20190126P
+First Name:Joseph
+Mailing Address:153 Quabbin Blvd
+County:Franklin
+Cell Phone:
+Email:info@phaindustries.com
+Business Name:PHA Industries, Inc.
+Last Name:Carbone
+City:Orange
+Zipcode:01364
+Work Phone:(978) 544-8770
+<br>
+License Number:MA20190127G
+First Name:Fred
+Mailing Address:66 Calamint Hill Rd. North
+County:Worcester
+Cell Phone:(508) 395-6321 
+Email:fred@massprop.ca
+Business Name:Massprop US Inc.
+Last Name:Green
+City:Princeton
+Zipcode:01541
+Work Phone:
+<br>
+License Number:MA20190128P
+First Name:John
+Mailing Address:One Westinghouse Plaza; Suite D240
+County:Suffolk
+Cell Phone:
+Email:Johnmoses@cftechnologies.com
+Business Name:CF Pharma Inc.
+Last Name:Moses
+City:Boston
+Zipcode:02136
+Work Phone:
+STOP
