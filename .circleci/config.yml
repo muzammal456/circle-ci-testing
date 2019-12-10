@@ -4,5 +4,9 @@ version: 2
       docker: 
         - image: circleci/php:7.2 # the primary container, where your job's commands are run
       steps:
-        - run: echo "hello world" # run the `echo` command
-
+ 	 - checkout
+        - run: 
+		  name: The First Step
+		  command: |
+		    echo 'Hello World!'
+		    echo 'This is the delivery pipeline'
