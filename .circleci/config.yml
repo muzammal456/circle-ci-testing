@@ -9,4 +9,6 @@ jobs:
           command: |
             echo 'Hello World!'
             echo 'This is the delivery pipeline'
-            php artisan cache:clear
+      - run:
+          name: Install npm
+          command: npm install
