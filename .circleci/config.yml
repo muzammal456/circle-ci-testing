@@ -5,6 +5,7 @@ jobs: # a collection of steps
     docker: # run the steps with Docker
       - image: circleci/php:7.2-node-browsers # ...with this image as the primary container; this is where all `steps` will run
 #    working_directory: ~/laravel  directory where steps will run
+    #./s3deploy -source=$HUGO_BUILD_DIR -region=us-east-1 -bucket=your-bucket-name -path=your-subfolder
     steps: # a set of executable commands
       - checkout # special step to check out source code to working directory
       - run: echo "${CIRCLE_BRANCH}"
@@ -12,7 +13,8 @@ jobs: # a collection of steps
           name: deploy
           command: |
             if [ "${CIRCLE_BRANCH}" = "master" ]; then
-              ./s3deploy -source=$HUGO_BUILD_DIR -region=us-east-1 -bucket=your-bucket-name -path=your-subfolder
+              echo "${CIRCLE_BRANCH}"
+              echo "It is master branch and deploy to server"
             else
               echo "Not master branch, dry run only"
             fi
