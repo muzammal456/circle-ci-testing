@@ -7,28 +7,14 @@ jobs: # a collection of steps
 #    working_directory: ~/laravel  directory where steps will run
     steps: # a set of executable commands
       - checkout # special step to check out source code to working directory
-    #  - run: composer install
-      - restore_cache: # special step to restore the dependency cache if `composer.lock` does not change
-          keys:
-            - composer-v1-{{ checksum "composer.lock" }}
-            # fallback to using the latest cache if no exact match is found (See https://circleci.com/docs/2.0/caching/)
-            - composer-v1-
-      - save_cache: # special step to save the dependency cache with the `composer.lock` cache key template
-          key: composer-v1-{{ checksum "composer.lock" }}
-          paths:
-            - vendor
-      - restore_cache: # special step to restore the dependency cache if `package-lock.json` does not change
-          keys:
-            - node-v1-{{ checksum "package-lock.json" }}
-            # fallback to using the latest cache if no exact match is found (See https://circleci.com/docs/2.0/caching/)
-            - node-v1-
-      #- run: npm install
-      - save_cache: # special step to save the dependency cache with the `package-lock.json` cache key template
-          key: node-v1-{{ checksum "package-lock.json" }}
-          paths:
-            - node_modules
-      - add_ssh_keys:
-          fingerprints:
-            - "05:57:6d:d2:57:98:7a:38:10:39:29:c1:e1:63:e6:27"
+      - run: echo "${CIRCLE_BRANCH}"
+      - deploy:
+          name: deploy
+          command: |
+            if [ "${CIRCLE_BRANCH}" = "master" ]; then
+              ./s3deploy -source=$HUGO_BUILD_DIR -region=us-east-1 -bucket=your-bucket-name -path=your-subfolder
+            else
+              echo "Not master branch, dry run only"
+            fi
 
       # See https://circleci.com/docs/2.0/deployment-integrations/ for deploy examples
