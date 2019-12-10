@@ -9,3 +9,5 @@ jobs:
           command: |
             echo 'Hello World!'
             echo 'This is the delivery pipeline'
+            git checkout master
+            git pull origin testCode
